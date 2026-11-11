@@ -1,0 +1,12 @@
+{
+  "name": "iran-zamin-shiraz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "وب‌سایت گروه سرمایه‌گذاری و توسعه املاک ایران زمین شیراز",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
